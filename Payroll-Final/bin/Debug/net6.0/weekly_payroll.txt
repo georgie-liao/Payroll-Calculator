@@ -1,0 +1,141 @@
+
+
+	*** Employee Payroll Statement ***	
+..................................................
+
+Employee ID : 1
+First Name : George
+Last Name : Lee
+Annual Salary : $80000
+KiwiSaver Percentage : 9%
+
+..................................................
+
+Fortnight calculation:
+Hourly Rate : $38
+Worked Hours : 80hours
+Gross Pay : $3077
+
+Deducations :
+Tax : $1015
+KiwiSaver :$277
+
+..................................................
+
+Fortnight Net Payroll: $1785
+
+
+
+
+	*** Employee Payroll Statement ***	
+..................................................
+
+Employee ID : 2
+First Name : Allen
+Last Name : Lincon
+Annual Salary : $100000
+KiwiSaver Percentage : 5%
+
+..................................................
+
+Fortnight calculation:
+Hourly Rate : $48
+Worked Hours : 80hours
+Gross Pay : $3846
+
+Deducations :
+Tax : $1269
+KiwiSaver :$192
+
+..................................................
+
+Fortnight Net Payroll: $2385
+
+
+
+
+	*** Employee Payroll Statement ***	
+..................................................
+
+Employee ID : 3
+First Name : Mary
+Last Name : Lawton
+Annual Salary : $60000
+KiwiSaver Percentage : 4%
+
+..................................................
+
+Fortnight calculation:
+Hourly Rate : $29
+Worked Hours : 80hours
+Gross Pay : $2308
+
+Deducations :
+Tax : $692
+KiwiSaver :$92
+
+..................................................
+
+Fortnight Net Payroll: $1523
+
+
+
+
+	*** Employee Payroll Statement ***	
+..................................................
+
+Employee ID : 4
+First Name : Ham
+Last Name : Richard
+Annual Salary : $45000
+KiwiSaver Percentage : 0%
+
+..................................................
+
+Fortnight calculation:
+Hourly Rate : $22
+Worked Hours : 80hours
+Gross Pay : $1731
+
+Deducations :
+Tax : $303
+KiwiSaver :$0
+
+..................................................
+
+Fortnight Net Payroll: $1428
+
+
+
+
+	*** Employee Payroll Statement ***	
+..................................................
+
+Employee ID : 5
+First Name : Chris
+Last Name : Harry
+Annual Salary : $55000
+KiwiSaver Percentage : 3%
+
+..................................................
+
+Fortnight calculation:
+Hourly Rate : $26
+Worked Hours : 80hours
+Gross Pay : $2115
+
+Deducations :
+Tax : $635
+KiwiSaver :$63
+
+..................................................
+
+Fortnight Net Payroll: $1417
+
+
+63
+
+..................................................
+Fortnight Net Payroll:$1417
+
+

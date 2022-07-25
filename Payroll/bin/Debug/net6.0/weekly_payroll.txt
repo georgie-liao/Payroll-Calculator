@@ -1,0 +1,206 @@
+..................................................
+		Employee Payroll Statement		
+..................................................
+
+Employee ID : 1
+First Name : George
+Last Name : Lee
+Annual Salary : $80000
+Kiwi Saver : 9%
+..................................................
+Hourly Rate : $38
+Working Hours : 80hours
+Fotnight Gross Pay : $3077
+
+Deducations :
+Tax : $1015
+Kiwi Saver :$277
+
+..................................................
+Fortnight Net Payroll:$1785
+
+
+..................................................
+		Employee Payroll Statement		
+..................................................
+
+Employee ID : 2
+First Name : Allen
+Last Name : Lincon
+Annual Salary : $100000
+Kiwi Saver : 5%
+..................................................
+Hourly Rate : $48
+Working Hours : 80hours
+Fotnight Gross Pay : $3846
+
+Deducations :
+Tax : $1269
+Kiwi Saver :$192
+
+..................................................
+Fortnight Net Payroll:$2385
+
+
+..................................................
+		Employee Payroll Statement		
+..................................................
+
+Employee ID : 3
+First Name : Mary
+Last Name : Lawton
+Annual Salary : $60000
+Kiwi Saver : 4%
+..................................................
+Hourly Rate : $29
+Working Hours : 80hours
+Fotnight Gross Pay : $2308
+
+Deducations :
+Tax : $692
+Kiwi Saver :$92
+
+..................................................
+Fortnight Net Payroll:$1523
+
+
+..................................................
+		Employee Payroll Statement		
+..................................................
+
+Employee ID : 4
+First Name : Ham
+Last Name : Richard
+Annual Salary : $45000
+Kiwi Saver : 0%
+..................................................
+Hourly Rate : $22
+Working Hours : 80hours
+Fotnight Gross Pay : $1731
+
+Deducations :
+Tax : $303
+Kiwi Saver :$0
+
+..................................................
+Fortnight Net Payroll:$1428
+
+
+..................................................
+		Employee Payroll Statement		
+..................................................
+
+Employee ID : 5
+First Name : Chris
+Last Name : Harry
+Annual Salary : $55000
+Kiwi Saver : 3%
+..................................................
+Hourly Rate : $26
+Working Hours : 80hours
+Fotnight Gross Pay : $2115
+
+Deducations :
+Tax : $635
+Kiwi Saver :$63
+
+..................................................
+Fortnight Net Payroll:$1417
+
+
+e : Mary
+Last Name : Lawton
+Annual Salary : 60000
+KiwiSaver : 4%
+
+..................................................................................
+                                         Fortnight Calculation                                         
+..................................................................................
+
+Hourly Rate : $29
+Work Hour : 80hours
+Gross Pay : $2308
+
+DEDUCTIONS:
+Tax : $692
+Kiwi Saver : $92
+
+..................................................................................
+                                           Fornight Payroll                                           
+..................................................................................
+
+Fortnight Payroll : $1523
+
+..................................................................................
+                                         Employee Information                                         
+..................................................................................
+
+Employee ID : 4
+First Name : Ham
+Last Name : Richard
+Annual Salary : 45000
+KiwiSaver : 0%
+
+..................................................................................
+                                         Fortnight Calculation                                         
+..................................................................................
+
+Hourly Rate : $22
+Work Hour : 80hours
+Gross Pay : $1731
+
+DEDUCTIONS:
+Tax : $303
+Kiwi Saver : $0
+
+..................................................................................
+                                           Fornight Payroll                                           
+..................................................................................
+
+Fortnight Payroll : $1428
+
+..................................................................................
+                                         Employee Information                                         
+..................................................................................
+
+Employee ID : 5
+First Name : Chris
+Last Name : Harry
+Annual Salary : 55000
+KiwiSaver : 3%
+
+..................................................................................
+                                         Fortnight Calculation                                         
+..................................................................................
+
+Hourly Rate : $26
+Work Hour : 80hours
+Gross Pay : $2115
+
+DEDUCTIONS:
+Tax : $635
+Kiwi Saver : $63
+
+..................................................................................
+                                           Fornight Payroll                                           
+..................................................................................
+
+Fortnight Payroll : $1417
+
+ight Payroll : $1417
+
+----------------------------------------------------------------------------------------------------
+
+Hourly Rate : 26$
+Hours worked : 80hr
+Gross Pay : 2115$
+DEDUCTIONS
+Tax : 635$
+Kiwi Saver : 63$
+
+----------------------------------------------------------------------------------------------------
+                                                  PAY                                                  
+----------------------------------------------------------------------------------------------------
+
+Fortnight Payroll : 1417$
+

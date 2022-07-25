@@ -1,0 +1,15 @@
+E:\Payroll\Payroll-Final\bin\Debug\net6.0\Payroll-Final.exe
+E:\Payroll\Payroll-Final\bin\Debug\net6.0\Payroll-Final.deps.json
+E:\Payroll\Payroll-Final\bin\Debug\net6.0\Payroll-Final.runtimeconfig.json
+E:\Payroll\Payroll-Final\bin\Debug\net6.0\Payroll-Final.dll
+E:\Payroll\Payroll-Final\bin\Debug\net6.0\Payroll-Final.pdb
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.csproj.AssemblyReference.cache
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.AssemblyInfoInputs.cache
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.AssemblyInfo.cs
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.csproj.CoreCompileInputs.cache
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.dll
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\refint\Payroll-Final.dll
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.pdb
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\Payroll-Final.genruntimeconfig.cache
+E:\Payroll\Payroll-Final\obj\Debug\net6.0\ref\Payroll-Final.dll

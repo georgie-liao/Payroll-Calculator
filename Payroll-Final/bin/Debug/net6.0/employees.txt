@@ -1,0 +1,5 @@
+1 George Lee 80000 9
+2 Allen Lincon 100000 5
+3 Mary Lawton 60000 4
+4 Ham Richard 45000 0
+5 Chris Harry 55000 3
